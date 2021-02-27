@@ -1,2 +1,2 @@
 # Databases
-MySQL database
+MySQL database which manages a company with stores, staff, managers, products, orders.
